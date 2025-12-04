@@ -1,0 +1,4 @@
+IncomeGroup,SnapRate,FoodAccessScore,PovertyPercent,HardshipIndex
+Low income,0.189,0.64,21.487,24.033
+Middle income,0.115,0.379,14.057,15.986
+High income,0.07,0.256,9.929,11.431
